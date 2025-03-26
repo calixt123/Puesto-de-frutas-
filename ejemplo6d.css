@@ -1,0 +1,23 @@
+
+body{margin:auto;width:1000px;height:1100px}
+.a{width:1000px;height:250px;background:yellow}
+.b{width:300px;height:250px;background:red;float:left}
+.c{width:400px;height:250px;background:blue;float:left}
+.d{width:300px;height:250px;background:pink;float:left}
+.e{width:300px;height:250px;background:orange;float:left}
+.f{width:400px;height:250px;background:purple;float:left}
+.g{width:300px;height:250px;background:green;float:left}
+.h{width:300px;height:250px;background:brown;float:left}
+.i{width:400px;height:250px;background:grey;float:left}
+.j{width:300px;height:250px;background:pink;float:left}
+.k{width:1000px;height:200px;background:olive;float:left}
+p{font-size:30PX; black; text-align:center;font-family:algerian}
+h1{color:blue}
+h2{color:green}
+
+
+ul li a{text-decoration: none;float:left;background:blue;
+       padding:15px;color:pink;font-size: 15px;}
+li {display: inline}
+ul li a:hover {background:green;marquing
+
